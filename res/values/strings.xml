@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest01</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Navigate to secondary activity</string>
+    <string name="button2">Press Me!</string>
+    <string name="button3">Press Me, Too!</string>
+    <string name="button4">Ok</string>
+    <string name="button5">Cancel</string>
+    <string name="counter1">0</string>
+    <string name="counter2">0</string>
+    <string name="total">0</string>
+    <string name="title_activity_practical_test01_secondary">PracticalTest01SecondaryActivity</string>
+
+</resources>
